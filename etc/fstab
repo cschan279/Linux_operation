@@ -1,0 +1,1 @@
+tmpfs       /mysql_tmp     tmpfs   defaults,size=160G,uid=mysql,gid=mysql   0  0
